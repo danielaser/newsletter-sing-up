@@ -77,7 +77,7 @@ body {
 }
 
 .card-features ul li::before {
-    content: url(../newsletter-sign-up-with-success-message-main/assets/images/icon-list.svg);
+    content: url(./assets/images/icon-list.svg);
     height: 20px;
     width: 20px;
     transform: translatex(-50%);
